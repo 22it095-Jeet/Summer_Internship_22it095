@@ -236,7 +236,7 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 • Test the implementation to ensure images are properly displayed.
 
 ##### Image on Website :
-![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/fc2227ab-32a4-413b-8fef-1b154e861ec3)
+![image](https://github.com/22it095-Jeet/Summer_Internship_22it095/blob/main/img/Screenshot%202024-07-16%20184410.png)
 
 ### Day-2 : Learning Django-HTML Language
 
