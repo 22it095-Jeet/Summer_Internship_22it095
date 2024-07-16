@@ -283,7 +283,7 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 • On form submission, data is reflected in the user registration table.
 
 ##### user registration Page :
-![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/4d0676ea-fcec-474e-8317-1012daaf57f3)
+![image]([https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/4d0676ea-fcec-474e-8317-1012daaf57f3](https://github.com/22it095-Jeet/Summer_Internship_22it095/blob/main/img/Screenshot%202024-07-16%20183648.png))
 
 • Create a login page using HTML for user authentication.
 
