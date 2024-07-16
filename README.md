@@ -184,7 +184,7 @@ Welcome to my github repository for the Summer Internship 2024!This project show
 ![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/98fe088d-8bc4-4358-bb33-e2009c01f72d)
 
 ##### Admin Page:
-![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/9fd64de6-bdb8-4c1b-9368-38c5ce7ea5ce)
+![image](https://github.com/22it095-Jeet/Summer_Internship_22it095/blob/main/img/Screenshot%202024-07-16%20184536.png)
 
 ##### ➡Commands:
 
